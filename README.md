@@ -62,7 +62,7 @@ This script checks the availability of social media profiles based on a provided
 
 3. Run the script:
     ```bash
-    python OSINT.py
+    python3 OSINT.py
     ```
 
 4. Enter the username you wish to check when prompted.
