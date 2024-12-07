@@ -51,8 +51,8 @@ This script checks the availability of social media profiles based on a provided
 
 1. Clone the repository:
     ```bash
-    git clone (https://github.com/Retr0-0Sec/Social-Media-OSINT.git)
-    cd OSINT.py
+    git clone https://github.com/Retr0-0Sec/Social-Media-OSINT.git
+    cd Social-Media-OSINT
     ```
 
 2. Install the required dependencies (if not already installed):
